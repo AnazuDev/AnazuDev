@@ -5,7 +5,7 @@
 <p align="left">
 <a href="https://www.youtube.com/@AnasBex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="AnasBex" height="30" width="40" /></a>
 
-<a href="https://www.instagram.com/anasbex_/?hl=id" target="blank"><img align="center" src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-instagram-social-platform-icon-png-image_6315976.png" alt="AnasBex" height="30" width="40" /></a>
+<a href="https://www.instagram.com/anasbex_/?hl=id" target="blank"><img align="center" src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-instagram-social-platform-icon-png-image_6315976.png" alt="AnasBex" height="40" width="40" /></a>
 
 </p>
 
