@@ -11,3 +11,14 @@
 
 </p>
 
+<br>
+#### My Github Stats
+   
+<a href="https://github.com/AnazuDev">
+   
+![my github stats](https://github-readme-stats.vercel.app/api?username=AnazuDev&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&custom_title=AnazuDev's%20Github%20Stats)
+   
+</a>
+   
+<br>
+
