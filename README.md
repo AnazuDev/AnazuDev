@@ -12,12 +12,13 @@
 </p>
 
 <br>
-#### My Github Stats
+# My Github Stats
    
 <a href="https://github.com/AnazuDev">
-   
-![my github stats](https://github-readme-stats.vercel.app/api?username=AnazuDev&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&custom_title=AnazuDev's%20Github%20Stats)
-   
+
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AnazuDevt&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AnazuDev&layout=compact&langs_count=8&theme=algolia"/>
+
 </a>
    
 <br>
