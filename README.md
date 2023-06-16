@@ -1,6 +1,6 @@
 <center>
 <p> Hi 👋 I'm AnasBex  </p>
-   (https://komarev.com/ghpvc/?username=AnazuDev)
+  ![](https://komarev.com/ghpvc/?username=AnazuDev)
 <img align="right" alt="Coding" width="400" src="https://www.icegif.com/wp-content/uploads/icegif-2013.gif">
 
 <h3 align="left">Connect with me:</h3>
